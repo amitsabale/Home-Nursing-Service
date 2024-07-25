@@ -15,7 +15,7 @@ const Banner = () => (
                     <p className="mb-2"><strong>Contact Information:</strong></p>
                     <p>Email: amitsabaledemo.com</p>
                     <p>Phone: +01073017536ee0</p>
-                    <p>Phone: +01073017536ee0</p>
+                    <p>Phone: +01073017536</p>
 
                     <img src={whatsappIcon} alt="WhatsApp Icon" className="w-8 inline-block" />
                     <a className="inline-block ml-2" href='https://wa.me/7709750465'>7709750465</a>
