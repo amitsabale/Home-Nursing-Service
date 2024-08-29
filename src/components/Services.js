@@ -22,7 +22,7 @@ const Services = () => (
                 <ServiceCard
                     key="babycare"
                     title="Baby Care"
-                    description="Comprehensive post-surgical care for faster recovery."
+                    description="Compassionate support and nurturing care for infants to ensure their health and well-being."
                     image={babycare}
                     contactLink="https://wa.me/7709750465"
                 />
@@ -36,14 +36,14 @@ const Services = () => (
                 <ServiceCard
                     key="Physiotherapy"
                     title="Physiotherapy"
-                    description="Comprehensive post-surgical care for faster recovery."
+                    description="Specialized care to improve mobility and reduce pain through therapeutic exercises."
                     image={physiotherapyImage}
                     contactLink="https://wa.me/7709750465"
                 />
                 <ServiceCard
                     key="Bloodtest"
                     title="Bloodtest"
-                    description="Comprehensive post-surgical care for faster recovery."
+                    description="Convenient and accurate blood sample collection and analysis for various medical diagnostics."
                     image={bloodtest}
                     contactLink="https://wa.me/7709750465"
                 />
@@ -57,49 +57,49 @@ const Services = () => (
                 <ServiceCard
                     key="Bodymassage"
                     title="Bodymassage"
-                    description="Comprehensive post-surgical care for faster recovery."
+                    description="Relaxing and therapeutic massage to relieve stress, improve circulation, and promote well-being."
                     image={Bodymassage}
                     contactLink="https://wa.me/7709750465"
                 />
                 <ServiceCard
                     key="critical patient care"
                     title="Critical patient care"
-                    description="Comprehensive post-surgical care for faster recovery."
+                    description="Intensive monitoring and specialized treatment for patients with life-threatening conditions."
                     image={CriticalPatients}
                     contactLink="https://wa.me/7709750465"
                 />
                 <ServiceCard
                     key="dressing"
                     title="Dressing"
-                    description="Comprehensive post-surgical care for faster recovery."
+                    description="Expert wound care and management to promote healing and prevent infection"
                     image={dressing}
                     contactLink="https://wa.me/7709750465"
                 />
                 <ServiceCard
                     key="handicaped"
                     title="Handicaped Care"
-                    description="Comprehensive post-surgical care for faster recovery."
+                    description="Personalized support and assistance to enhance daily living and quality of life for individuals with disabilities."
                     image={handicaped}
                     contactLink="https://wa.me/7709750465"
                 />
                 <ServiceCard
                     key="heartbpcheck"
                     title="BP Check"
-                    description="Comprehensive post-surgical care for faster recovery."
+                    description="Routine monitoring of blood pressure to assess cardiovascular health and detect potential issues."
                     image={heartbpcheck}
                     contactLink="https://wa.me/7709750465"
                 />
                 <ServiceCard
                     key="EquipmentOnrent"
                     title="Equipment On Rent"
-                    description="Comprehensive post-surgical care for faster recovery."
+                    description="Affordable rental services for essential medical devices and equipment to support patient care."
                     image={equipmentonrent}
                     contactLink="https://wa.me/7709750465"
                 />
                 <ServiceCard
                     key="medical equipment on rent "
                     title="Medical Equipment On Rent "
-                    description="Personalized physiotherapy sessions at your home."
+                    description="Rental of essential medical devices for convenient care."
                     image={itemonrent}
                     contactLink="https://wa.me/7709750465"
                 />
