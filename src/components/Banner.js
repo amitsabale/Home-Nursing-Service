@@ -3,14 +3,14 @@ import bannerImage from "../assets/banner2.png";
 import whatsappIcon from "../assets/wtsapp.jpeg";
 
 const Banner = () => (
-  <section className="banner bg-gray-100 py-20 mt-50">
+  <section className="banner bg-gray-100 md:py-20 py-0 md:mt-50 mt-[0px]">
     <div className="container mx-auto flex items-center justify-center flex-col relative">
       <img
         src={bannerImage}
         alt="Healthcare banner"
-        className="max-h-full rounded-lg shadow-md relative opacity-55"
+        className="md:max-h-full rounded-lg shadow-md relative opacity-55 h-[75vh]"
       />
-      <div className="banner-content ml-8 flex flex-col absolute">
+      <div className="banner-content md:ml-8 ml-4 md:mr-0 mr-4 flex flex-col absolute">
         <div className="homecontent text-left flex flex-col">
           <p className="text-lg font-bold">
             At Home Nursing Service, we provide compassionate and professional
