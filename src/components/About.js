@@ -10,7 +10,7 @@ const About = () => (
         About Us
       </h2>
       <p className="text-base md:text-lg leading-relaxed text-justify">
-        Welcome to Home Nursing Services, where compassionate care meets
+        Welcome to Home Nursing Service, where compassionate care meets
         convenience. We understand the challenges families face when seeking
         quality healthcare at home, and we are dedicated to providing
         professional nursing and caregiving services tailored to meet your

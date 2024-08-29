@@ -15,7 +15,7 @@ import mentallychallanged from '../assets/mentallychallenged.jpeg';
 import itemonrent from '../assets/itemonrent.jpeg';
 
 const Services = () => (
-    <section id="services" className="py-10 md:py-20 mt-[-40px] md:mt-[-80px] text-center">
+    <section id="services" className="py-10 md:py-20 mt-[-40px] md:mt-[-80px]">
         <div className="container mx-auto px-4">
             <h2 className="text-3xl md:text-4xl text-center mb-8">Our Services</h2>
             <div className="services-container grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
