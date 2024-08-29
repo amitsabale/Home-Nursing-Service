@@ -29,8 +29,8 @@ const Banner = () => (
           <p className="mb-2">
             <strong>Contact Information:</strong>
           </p>
-          <p>Email: info@homenursingservice.com</p>
-          <p>Phone: +01 7301 753600</p>
+          <p>Email: amitshomenursing.com</p>
+          <p>Phone: +91 1234554321</p>
           <img
             src={whatsappIcon}
             alt="WhatsApp Icon"
