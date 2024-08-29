@@ -5,10 +5,10 @@ import whatsappIcon from "../assets/wtsapp.jpeg";
 const Banner = () => (
   <section className="banner bg-gray-100 md:py-20 py-0 md:mt-50 mt-[0px]">
     <div className="container mx-auto flex items-center justify-center flex-col relative">
-      <img
+    <img
         src={bannerImage}
         alt="Healthcare banner"
-        className="md:max-h-full rounded-lg shadow-md relative opacity-55 h-[75vh]"
+        className="md:max-h-full rounded-lg shadow-md relative md:opacity-55 h-[75vh] opacity-0"
       />
       <div className="banner-content md:ml-8 ml-4 md:mr-0 mr-4 flex flex-col absolute">
         <div className="homecontent text-left flex flex-col">
